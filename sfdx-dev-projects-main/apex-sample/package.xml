@@ -11,6 +11,7 @@
     <types>
         <members>*</members>
         <name>ApexTrigger</name> <!-- Represents an Apex trigger -->
-    </types>  
+    </types> 
+    
     <version>50.0</version>
 </Package>
